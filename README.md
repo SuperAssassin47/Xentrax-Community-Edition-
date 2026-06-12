@@ -7,4 +7,4 @@ Xentrax CE is a neural engine designed to run on its own. Upon startup, it takes
 
 # Future Optimizations
 
-In future updates, I will plan on evolving the neural engine to make the experience better for all of you.
+In future updates, I will plan on evolving the neural engine to make the experience better for all of you. I will also aim on optimising the performance so that it can effectively block nefarious datagrams before it hits the main Firewall.
